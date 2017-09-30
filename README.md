@@ -1,4 +1,4 @@
-# GreaseMonkeyUserScripts
+# GreaseMonkey User Scripts
 
 <p align="center">
   <img src="http://4.bp.blogspot.com/-Mb8wpsV2MW4/UUMUmCdSzeI/AAAAAAAAAWo/bU4UnS_hXPc/s1600/GreaseMonkey.png">
