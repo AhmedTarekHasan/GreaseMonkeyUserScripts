@@ -1,5 +1,5 @@
 // ==UserScript==
-// @author          Ahmed Tarek Hasan (http://linkedin.com/in/atarekhasan)
+// @author        Ahmed Tarek Hasan (http://linkedin.com/in/atarekhasan)
 // @name          LinkedIn Group Invitations Enhancer
 // @namespace     DevelopmentSimplyPut(developmentsimplyput.blogspot.com)
 // @description   Easily Invite Your LinkedIn Connections To Your Group With Extended Filtering/Searching Features
